@@ -4,7 +4,7 @@
 #    para evaluar si un número es par o impar.
 
 print("\nActividad 3\n")
-# Ingreso de datos
+# Ingreso de dato
 num = int(input("Ingrese un número par: "))
 
 if num % 2 == 0:

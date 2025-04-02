@@ -4,7 +4,7 @@
 
 print("\nActividad 7\n")
 
-# Ingreso de datos
+# Ingreso de dato
 palabra = input("Ingrese una palabra: ")
 
 if palabra[-1] in ('aeiouAEIOU'):

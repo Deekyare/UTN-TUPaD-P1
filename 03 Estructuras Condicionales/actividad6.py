@@ -23,7 +23,7 @@ if media > mediana and mediana > moda:
 elif media < mediana and mediana < moda:
     sesgo = "Sesgo negativo o a la izquierda"
 else:
-    sesgo = "Sin sesgo"
+    sesgo = "Sin sesgo."
 
 # Imprimir los resultados
 print("Lista de números aleatorios:", numeros_aleatorios)

@@ -21,4 +21,4 @@ elif opcion == 2:
 elif opcion == 3:
     print(nombre.title())
 else:
-    print("Elija una opcion valida")
+    print("Elija una opcion valida.")

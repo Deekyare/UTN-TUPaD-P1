@@ -26,4 +26,4 @@ elif (mes == 6 and dia >= 21) or mes == 7 or mes == 8 or (mes == 9 and dia <= 20
     else:
         print("Usted se encuentra en invierno")
 else:
-    print("Algun dato es invalido")
+    print("Algun dato es invalido.")

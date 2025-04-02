@@ -13,6 +13,6 @@ if edad < 12:
 elif edad >= 12 and edad < 18:
     print("\nUsted es un adolescente.")
 elif edad >= 18 and edad < 30:
-    print ("\nUsted es un adulto/a joven")
+    print ("\nUsted es un adulto/a joven.")
 else:
-    print ("\n Usted es un adulto/a")
+    print ("\n Usted es un adulto/a.")

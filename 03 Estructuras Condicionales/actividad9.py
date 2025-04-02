@@ -11,7 +11,7 @@
 
 
 print("\nActividad 9\n")
-# Ingreso de dato
+# Ingreso de datos
 magnitud = float(input("Ingrese la magnitud de un terremoto: \n"))
 
 if magnitud < 3:

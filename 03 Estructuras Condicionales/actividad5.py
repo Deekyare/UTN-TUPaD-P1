@@ -12,6 +12,6 @@ contraseña = len(input("Ingrese una contraseña: "))
 if contraseña >= 8 and contraseña <= 14:
     print("\nHa ingresado una contraseña correcta")
 else:
-    print("\nPor favor, ingrese una contraseña de entre 8 y 14 caracteres")
+    print("\nPor favor, ingrese una contraseña de entre 8 y 14 caracteres.")
 
 

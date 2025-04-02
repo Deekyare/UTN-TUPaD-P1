@@ -8,6 +8,6 @@ print("\nActividad 1\n")
 edad = int(input("Ingrese su edad: "))
 
 if edad >= 18:
-    print("Usted es mayor de edad")
+    print("Usted es mayor de edad.")
 else:
-    print("Usted no es mayor de edad")
+    print("Usted no es mayor de edad.")
