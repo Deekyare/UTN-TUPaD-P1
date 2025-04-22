@@ -12,5 +12,5 @@ def calcular_imc(peso, altura):
 
 # Llamar a la función y mostrar el resultado con dos decimales.
 resultado_imc = calcular_imc(peso, altura)
-print(f"Según los datos ingresados, su IMC es: {resultado_imc:.2f}")
+print(f"Según los datos ingresados, su IMC es de: {resultado_imc:.2f}")
 
