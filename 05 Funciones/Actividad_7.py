@@ -19,8 +19,8 @@ resultados = operaciones_basicas(5, 2)
 
 # "resultados" ahora es una tupla: (7, 3, 10, 2.5)
 
-# Podemos acceder a los elementos de la tupla utilizando su índice (como en una lista)
-print(f"La suma es: {resultados[0]}")  # Imprime: La suma es: 7
-print(f"La resta es: {resultados[1]}") # Imprime: La resta es: 3
-print(f"La multiplicación es: {resultados[2]}") # Imprime: La multiplicación es: 10
-print(f"La división es: {resultados[3]}") # Imprime: La división es: 2.5
+# Podemos acceder a los elementos de la tupla utilizando su índice (como en una lista).
+print(f"La suma es: {resultados[0]}")  # Imprime: La suma es: 7.
+print(f"La resta es: {resultados[1]}") # Imprime: La resta es: 3.
+print(f"La multiplicación es: {resultados[2]}") # Imprime: La multiplicación es: 10.
+print(f"La división es: {resultados[3]}") # Imprime: La división es: 2.5.
