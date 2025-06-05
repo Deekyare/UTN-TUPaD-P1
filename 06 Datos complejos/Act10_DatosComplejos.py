@@ -13,7 +13,7 @@ paises_capitales = {
   
 }
 
-print("--- Diccionario Original (País: Capital) ---")
+print("--- Diccionario (País: Capital) ---")
 print(paises_capitales)
 
 # Construimos el nuevo diccionario
